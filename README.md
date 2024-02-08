@@ -2,9 +2,13 @@
 
 I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.
 
-🐱 About Me
+
+
+🐱 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangyeun003@gmail.com)](sangyeun003@gmail.com)
+
+
 
 🏅 Algorithm Silver Level. 
 
