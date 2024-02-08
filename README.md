@@ -1,4 +1,4 @@
-## Hi Welcome, I'm Sangyeun Park 👋
+## Hi, I'm Sangyeun Park 👋
 
 I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.
 
