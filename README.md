@@ -1,4 +1,4 @@
-# Hi, I'm Sangyeun Park 👋
+<h1 align="center"> Hi, I'm Sangyeun Park 👋</h1>
 
 <h3 align="center">I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.</h3>
 
