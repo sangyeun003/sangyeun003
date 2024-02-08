@@ -1,1 +1,11 @@
-[![sangyepa's 42 stats](https://badge42.vercel.app/api/v2/clf9a617x003008l44nj3n7uc/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+## Hi Welcome, I'm Sangyeun Park 👋
+
+I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.
+
+🐱 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangyeun003@gmail.com)](sangyeun003@gmail.com)
+
+🏅 Algorithm Silver Level. 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psypark003)](https://solved.ac/psypark003/)  
