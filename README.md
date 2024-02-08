@@ -1,6 +1,6 @@
-## Hi, I'm Sangyeun Park 👋
+# Hi, I'm Sangyeun Park 👋
 
-I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.
+### I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeun003&show_icons=true&theme=radical)
