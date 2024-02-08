@@ -15,4 +15,4 @@ I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision
 
 🏅 Algorithm Silver Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psypark003)](https://solved.ac/psypark003/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psypark003)](https://solved.ac/profile/psypark003/)  
