@@ -17,7 +17,7 @@
 
 </div>
 
-<br><br><br>
+<br>
 <h3 align="center">🏅 My Algorithm Level 🏅</h3>
 <div align="center">
 
