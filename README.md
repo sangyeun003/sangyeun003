@@ -13,7 +13,7 @@
 <h3 align="center">🐱 Contact 🐱</h3>
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangyeun003@gmail.com)](sangyeun003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangyeun003@gmail.com)](mailto:sangyeun003@gmail.com)
 
 </div>
 
