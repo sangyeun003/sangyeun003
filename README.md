@@ -10,11 +10,13 @@
 
 </div>
 
-<h3 align="center">🐱 Contact 🐱</h3>
+<br>
+<br>
+<h3 align="center">✏️ Top Languages ✏️</h3>
 <div align="center">
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangyeun003@gmail.com)](mailto:sangyeun003@gmail.com)
-
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyeun003&layout=compact)
+  
 </div>
 
 <br>
