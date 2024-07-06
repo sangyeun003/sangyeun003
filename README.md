@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Sangyeun Park 👋</h1>
 
-<h3 align="center">I am interested in Autonomous Driving & Reinforcement Learning & Computer Vision.</h3>
+<h3 align="center">I am interested in Autonomous Driving.</h3>
 
 <br><br><br>
 <h3 align="center">💡 My Github Stats 💡</h3>
