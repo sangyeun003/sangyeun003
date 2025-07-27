@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Sangyeun Park 👋</h1>
+<h1 align="center"> Hi, I'm Sangyoon Park 👋</h1>
 
 <h3 align="center">I am interested in Autonomous Driving.</h3>
 
